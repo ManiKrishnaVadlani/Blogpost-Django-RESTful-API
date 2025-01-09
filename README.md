@@ -1,4 +1,4 @@
 # Blogpost-Django-RESTful-API
-Developed a RESTful API for managing blog posts, including create, read, update, and delete (CRUD) functionalities, using Django Rest Framework (DRF).
-Designed and implemented a MySQL database for efficient storage and retrieval of blog content, user data, and metadata.
-Configured a secure and flexible environment using the environs package for managing sensitive settings and deployment variables.
+Built a scalable BlogPost API using Django and Django REST framework, enabling efficient CRUD operations.
+Designed RESTful endpoints and integrated MySQL for secure and efficient data storage.
+Utilized Environs for secure environment variable management and application configurability.
